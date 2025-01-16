@@ -1,2 +1,8 @@
-# CaseCount
-This React app is a Case Counter that allows users to add custom cases, increment their counts, and view percentage distributions. Each case is saved locally with a random RGB color and persists via localStorage. The app is responsive and includes a feature to export case data as a CSV file for further analysis. 🚀
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
